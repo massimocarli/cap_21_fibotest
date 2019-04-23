@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FiboTest</string>
+    <string name="fibo_input_hint">Insert the value of N</string>
+    <string name="calculate_fibonacci">Calculate Fibonacci</string>
+</resources>
